@@ -13,6 +13,7 @@ I'm a **senior full-stack engineer** with 6+ years of experience building fast, 
 - 🔭 Currently contributing to AI Studio (Text-to-Video Generation) at [JioHotstar](https://github.com/hotstar) as a Contractor, helping build next-generation generative AI experiences
 - 🌱 Expanding into **Python** & **FastAPI** for backend services
 - 💼 **Actively seeking new roles** — frontend-heavy full-stack or senior frontend engineering
+- 📄 **[Download My Resume]([https://your-resume-link-here.com](https://github.com/androizer/sswe_resume_latex/blob/main/resume.pdf))**
 - 💬 Ask me about React architecture, Next.js performance, or building scalable APIs
 
 ---
